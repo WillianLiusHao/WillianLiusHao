@@ -8,18 +8,18 @@
 
 感谢你来到我的首页，对我感兴趣的话可以关注我哦~~~(交个朋友也不错)
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://images.vrm.cn/ox/2022/07/27/code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[微信](./wx.jpg) 进一步交流。
+- 💬 如果你对我感兴趣，可以加我[微信](https://images.vrm.cn/ox/2022/07/27/wx.jpg) 进一步交流。
 - 📫 我的邮箱: [457427508@qq.com](mailto:457427508@qq.com);
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/2295436009552301)
 
 **技术栈 与 开发工具:**
 
-<code><img height="20" src="./javascript.png"></code>
-<code><img height="20" src="./typescript.png"></code>
-<code><img height="20" src="./vue.png"></code>
-<code><img height="20" src="./git.png"></code>
+<code><img height="20" src="https://images.vrm.cn/ox/2022/07/27/javascript.png"></code>
+<code><img height="20" src="https://images.vrm.cn/ox/2022/07/27/typescript.png"></code>
+<code><img height="20" src="https://images.vrm.cn/ox/2022/07/27/vue.png"></code>
+<code><img height="20" src="https://images.vrm.cn/ox/2022/07/27/git.png"></code>
 
 
 ✍️ **我的文章:**
