@@ -8,7 +8,7 @@
 
 感谢你来到我的首页，对我感兴趣的话可以关注我哦~~~(交个朋友也不错)
 
-  <img align="right" alt="GIF" src="https://images.vrm.cn/ox/2022/07/27/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://images.vrm.cn/ox/2022/07/27/code.gif" width="380" height="100%" />
 
 - 💬 如果你对我感兴趣，可以加我[微信](https://images.vrm.cn/ox/2022/07/27/wx.jpg) 进一步交流。
 - 📫 我的邮箱: [457427508@qq.com](mailto:457427508@qq.com);
