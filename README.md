@@ -41,11 +41,3 @@
   </ul>
 </div>
 </details>
-
-----------
-
-🥰 **社区粉丝:**
- 
-在掘金社区拥有 [1780+](https://juejin.cn/user/3984285870859614/followers) 粉丝，部分粉丝如下：
-
-[![](https://github.com/likaia/likaia/blob/main/followers.jpg)](https://juejin.cn/user/3984285870859614/followers)
