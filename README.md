@@ -29,7 +29,7 @@
   <summary>学习记录</summary>
   <div style="width: 98%; margin: 0 auto">
       <ul>
-        <li><a href="https://github.com/WillianLiusHao/study-record">study-record</a></li>
+        <li><a href="https://willianliushao.github.io/study-record">study-record</a></li>
       </ul>
   </div>
 </details>
